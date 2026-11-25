@@ -1,0 +1,2 @@
+#root { min-height: 100vh; display: flex; flex-direction: column; }
+.loading-screen { min-height: 55vh; display: grid; place-items: center; color: #f97316; font-size: 1.1rem; }
